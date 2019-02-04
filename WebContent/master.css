@@ -1,0 +1,70 @@
+@CHARSET "UTF-8";
+
+* {
+	font-family: 'Droid Sans', sans-serif;
+	padding: 0px;
+	margin:0px;
+}
+
+body {
+	background-color: #dfdfdf;
+}
+
+img {
+	size: 40%;
+	position: center;
+}
+
+.left {
+	float:left;
+	width: 50%;
+}
+
+.right {
+	float:left;
+	width: 50%;
+}
+
+.right img {
+	size:10%;
+}
+
+table {
+	border-collapse: collapse;
+	table-layout: fixed;
+	width: 80%;
+	margin-left:auto; 
+    margin-right:auto;
+    padding: 10px;
+    background-color: #ebebeb;
+}
+
+table th {
+	color: white;
+	font-size: 18px;
+}
+
+table, th, td {
+	border: 1px solid black;
+}
+
+table th {
+	height: 30px;
+	background-color: #7e2d2d;
+	font-size: 16px;
+	font-weight: bold;
+}
+
+table img {
+	display: block;
+	margin: auto;
+	width: 100%;
+}
+
+table #remove {
+	margin-left:auto; 
+    margin-right:auto;
+}
+
+width: 150px;
+}
